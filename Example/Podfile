@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CMYTKNetwork_Example' do
+  pod 'CMYTKNetwork', :path => '../'
+
+  target 'CMYTKNetwork_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
