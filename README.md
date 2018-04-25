@@ -27,3 +27,7 @@ comma, 506702341@qq.com
 ## License
 
 CMYTKNetwork is available under the MIT license. See the LICENSE file for more info.
+
+## 介绍
+
+基于YTKNetwork做的一些扩展，利用QMUIKit添加加载动画(可选)
