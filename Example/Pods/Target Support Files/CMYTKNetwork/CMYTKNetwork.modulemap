@@ -1,0 +1,6 @@
+framework module CMYTKNetwork {
+  umbrella header "CMYTKNetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}

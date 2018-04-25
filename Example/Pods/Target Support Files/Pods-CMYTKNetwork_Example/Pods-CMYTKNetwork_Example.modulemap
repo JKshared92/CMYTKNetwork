@@ -1,0 +1,6 @@
+framework module Pods_CMYTKNetwork_Example {
+  umbrella header "Pods-CMYTKNetwork_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

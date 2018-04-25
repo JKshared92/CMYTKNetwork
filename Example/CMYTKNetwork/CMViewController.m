@@ -18,6 +18,11 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+//    NSDictionary *param = @[];
+//    [[YTKNetworkConfig sharedConfig] clearUrlFilter];
+//    [[YTKNetworkConfig sharedConfig] clearCacheDirPathFilter];
+//    [[YTKNetworkConfig sharedConfig] addUrlFilter:[UrlArgumentsFilter filterWithArguments:param]];
 }
 
 - (void)didReceiveMemoryWarning
